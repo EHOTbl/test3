@@ -5,7 +5,7 @@ export const Post =()=>{
     // @ts-ignore
     return (
         <div>
-            <h2>Post</h2>
+            <h2>Post33</h2>
         </div>
 )
 }
